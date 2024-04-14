@@ -1,0 +1,29 @@
+[
+  {
+      "id": 1,
+      "name": "orange",
+      "hw_version": "1.0",
+      "fw_version": "1.0",
+      "lot": "A123",
+      "serial_number": "SN001",
+      "client_id": 1
+  },
+  {
+      "id": 2,
+      "name": "pomme",
+      "hw_version": "1.0",
+      "fw_version": "1.0",
+      "lot": "B123",
+      "serial_number": "SN003",
+      "client_id": 2
+  },
+  {
+      "id": 3,
+      "name": "banane",
+      "hw_version": "1.0",
+      "fw_version": "1.0",
+      "lot": "C123",
+      "serial_number": "SN002",
+      "client_id": 3
+  }
+]
